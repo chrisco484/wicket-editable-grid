@@ -3,7 +3,15 @@
 Thanks to Cloudbees buildhive for providing a free Jenkins instance. [![Build
 Status](https://buildhive.cloudbees.com/job/code-troopers/job/wicket-editable-grid/badge/icon)](https://buildhive.cloudbees.com/job/code-troopers/job/wicket-editable-grid/)
 
-This project is a fork of the [Wicketstuff Editable Grid](https://github.com/wicketstuff/core/wiki/Editable-Grid) project of [Mohammad Nadeem](https://github.com/mnadeem) 
+The source of this project is a fork of the [Wicketstuff Editable Grid](https://github.com/wicketstuff/core/wiki/Editable-Grid) project of [Mohammad Nadeem](https://github.com/mnadeem) 
+
+This project is a fork of CodeTrooper's fork of the above: [Wicketstuff Editable Grid](https://github.com/code-troopers/wicket-editable-grid) 
+
+It is inteded to have the following changes/enhancements:
+    Changes the properties XML file to use buttons with English labels instead of (?). 
+    Uses Bootstrap small buttons instead of the extra klunky standard size buttons.
+    Built with Wicket 7.x instead of Wicket 6.x
+
 
 [Apache Wicket](http://wicket.apache.org) is a Java Web framework providing clean separation between markup and logic.
 
